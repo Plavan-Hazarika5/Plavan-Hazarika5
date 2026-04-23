@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a freelance developer based in **Guwahati, Assam 🇮🇳** — I design and build things for the web, from clean frontends to full-stack applications.
+I am a UI/UX-focused developer who designs polished, user-centered experiences with Figma and strong product thinking. I also build full-stack web applications with React and Node.js to turn ideas into scalable, production-ready products.
 
 - 💼 Available for freelance web development projects
 - 🌐 Focused on **web development** — frontend, backend, and everything in between
@@ -26,6 +26,9 @@ I'm a freelance developer based in **Guwahati, Assam 🇮🇳** — I design and
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
